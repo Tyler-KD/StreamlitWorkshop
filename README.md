@@ -18,10 +18,6 @@ Streamlit Workshop is a personalized message generator. This project was built t
 
 To run this application, open the deployed link. You will see the message "Enter a brief for your post." After entering a message, click "Generate Post Content." Underneath, a currated message text and image based on your input will be generated.
 
-## Video
-
-N/A
-
 ## Deployed Site
 
 [Personalized Message Generator](https://appworkshop-hgukaehjjw2bapp7z6qyuz7.streamlit.app/)
